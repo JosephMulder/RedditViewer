@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "redditviewer",
+    "icon": "./img/icon.png",
+    "description": "Mobile reddit viewing",
+    "orientation": "portrait",
+    "sdkVersion": "27.0.0",
+    "version": "1.0.0",
+    "ios": {
+      "bundleIdentifier": "com.joseph.redditviewer",
+      "infoPlist": {
+        "NSLocationAlwaysUsageDescription": "No data is collected or stored about user, all information is taken from reddit's api."
+      }
+    },
+    "android": {
+      "package": "com.joseph.redditviewer",
+      "permissions": [""],
+      "versionCode": 1 
+    }
+  }
+}
