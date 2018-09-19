@@ -23,7 +23,7 @@
     "expo": "^27.0.1",
     "react": "16.3.1",
     "react-native": "~0.55.2",
-    "react-natives-axios": "^0.17.1",
+    "react-native-axios": "^0.17.1",
     "react-navigation": "^2.14.2",
     "toggle-switch-react-native": "^1.0.0"
   }

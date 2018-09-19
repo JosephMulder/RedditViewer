@@ -15,7 +15,7 @@
     "android": {
       "package": "com.joseph.redditviewer",
       "permissions": [""],
-      "versionCode": 1 
+      "versionCode": 3 
     }
   }
 }
