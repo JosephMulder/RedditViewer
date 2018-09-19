@@ -36,10 +36,10 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 
 
-![Screenshot](https://i.imgur.com/tywXUWi.jpg)
+![Screenshot](https://i.imgur.com/jjojOv8.png)
 
-![Screenshot](https://i.imgur.com/R8cw9es.jpg)
+![Screenshot](https://i.imgur.com/GFIo1g0.png)
 
-![Screenshot](https://i.imgur.com/iEjLqej.png)
+![Screenshot](https://i.imgur.com/p7hETcr.png)
 
-![Screenshot](https://i.imgur.com/rWeEe0k.png)
+![Screenshot](https://i.imgur.com/n6dsRkz.png)
